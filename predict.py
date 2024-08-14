@@ -36,7 +36,9 @@ class Predictor(BasePredictor):
             workflow = json.loads(file.read())
         self.comfyUI.handle_weights(
             workflow,
-            weights_to_download=[],
+            weights_to_download=[
+                "control_sd15_depth.pth"
+            ],
         )
 
     def filename_with_extension(self, input_file, prefix):
