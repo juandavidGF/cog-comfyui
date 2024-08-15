@@ -66,6 +66,7 @@ build:
 
     # Crystools
     - deepdiff
+    - pynvml
 
     # comfyui_controlnet_aux
     # https://github.com/Fannovel16/comfyui_controlnet_aux/blob/main/requirements.txt
