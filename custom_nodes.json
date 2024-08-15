@@ -7,6 +7,9 @@
     "repo": "https://github.com/crystian/ComfyUI-Crystools"
   },
   {
+    "repo": "https://github.com/jamesWalker55/comfyui-various"
+  },
+  {
     "repo": "https://github.com/cubiq/ComfyUI_IPAdapter_plus",
     "commit": "ce9b621"
   },
