@@ -10,6 +10,15 @@
     "repo": "https://github.com/jamesWalker55/comfyui-various"
   },
   {
+    "repo": "https://github.com/giriss/comfy-image-saver.git"
+  },
+  {
+    "repo": "https://github.com/spacepxl/ComfyUI-Image-Filters"
+  },
+  {
+    "repo": "https://github.com/risunobushi/comfyUI_FrequencySeparation_RGB-HSV.git"
+  },
+  {
     "repo": "https://github.com/cubiq/ComfyUI_IPAdapter_plus",
     "commit": "ce9b621"
   },
