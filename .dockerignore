@@ -16,7 +16,7 @@
 # Models
 *.ckpt
 *.safetensors
-*.pth
+# *.pth
 *.bin
 *.onnx
 *.torchscript
