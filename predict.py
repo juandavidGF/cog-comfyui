@@ -75,7 +75,7 @@ class Predictor(BasePredictor):
         self,
         subject_image: Path = Input(
             description="Subject image",
-            default=None,
+            default="https://replicate.delivery/pbxt/LRkbCEYFgZB0D8H2K5s3mc5lHAgRcA1m5qYMgyp9o7inm8gb/output%20(1).png",
         ),
         background_image: Path = Input(
             description="(Optional) Background here",
