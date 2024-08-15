@@ -1,6 +1,5 @@
 {
   "CHECKPOINTS": [
-    "control_sd15_depth.pth",
     "512-inpainting-ema.safetensors",
     "absolutereality_v181.safetensors",
     "albedobaseXL_v13.safetensors",

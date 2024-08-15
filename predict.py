@@ -110,6 +110,8 @@ class Predictor(BasePredictor):
             else:
                 image_filenames.append(None)
 
+        print("image_filenames", image_filenames)
+
         with open(api_json_file, "r") as file:
             workflow = json.loads(file.read())
 
