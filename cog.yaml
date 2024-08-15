@@ -26,6 +26,10 @@ build:
     - kornia>=0.7.1
     - websocket-client==1.6.3
 
+    # performance?
+    # - xformers
+    # - simpleeval
+
     # layerdiffuse
     - diffusers>=0.25.0
 
