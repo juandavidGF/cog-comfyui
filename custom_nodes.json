@@ -2,5 +2,9 @@
   {
     "repo": "https://github.com/sipherxyz/comfyui-art-venture.git",
     "commit": "c241bdb"
+  },
+  {
+    "repo": "https://github.com/WASasquatch/was-node-suite-comfyui",
+    "commit": "72290fc"
   }
 ]
